@@ -24,7 +24,8 @@
 
   - Clone the starter:
 
-  `$ git clone https://github.com/LazyVim/starter ~/.config/nvim`
+    - For newbie: `$ git clone https://github.com/LazyVim/starter ~/.config/nvim`
+    - For my existing configs: `$ git clone https://github.com/MaDuzzz/my-lazyvim-config.git ~/.config/nvim`
   - (Optional) You can remove *.git* folder and you can add your remote repository later
   
   `$ rm -rf ~/.config/nvim/.git`
